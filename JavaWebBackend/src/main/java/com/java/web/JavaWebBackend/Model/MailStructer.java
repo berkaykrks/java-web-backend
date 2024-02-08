@@ -1,10 +1,5 @@
 package com.java.web.JavaWebBackend.Model;
 
-import lombok.Getter;
-import lombok.Setter;
-
-@Getter
-@Setter
 public class MailStructer {
 
 	private String subject;
